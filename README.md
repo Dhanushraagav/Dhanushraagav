@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-B.E Computer Science Engineering student (2023–2027).  
-Learning full stack development using JavaScript and practicing DSA regularly.  
-Focused on improving step by step and preparing for placements.
+B.E Computer Science Engineering student (2023–2027).
+Exploring full stack development with JavaScript and solving DSA problems regularly.
+Focused on steady progress and placement preparation.
+
 </p>
 
 ---
@@ -23,9 +24,6 @@ Node.js, Express.js
 Database:  
 MongoDB  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
-</p>
 
 ---
 
