@@ -12,7 +12,14 @@ Currently focusing on improving my problem-solving skills, SQL knowledge, and ma
 
 ---
 
-<p>
+<div style="
+  background: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 20px;
+  width: fit-content;
+">
+
 <b>Skills</b><br><br>
 
 <b>Frontend:</b><br>
@@ -30,7 +37,8 @@ Fraud Detection, Data Analysis, Feature Engineering<br><br>
 
 <b>Tools:</b><br>
 Git, GitHub
-</p>
+
+</div>
 
 ---
 
